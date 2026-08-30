@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 
 ## 📊Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tatianesilva-ads&layout=pie&langs_count=10&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=10&theme=nightowl)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=tatianesilva-ads&layout=compact&langs_count=10&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&theme=radical)
 
 
 
