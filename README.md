@@ -1,13 +1,19 @@
 # 👩🏻‍💻 Tatiane Silva
 **`Estudante de Análise e Desenvolvimento de Sistemas`** 
 
-Graduanda em Análise e Desenvolvimento de Sistemas (ADS) com sólida bagagem no setor de saúde e indústria farmacêutica. Alinho vivência prática em rotinas operacionais e analíticas à capacidade de desenvolver soluções em dados para otimização de processos.
+Graduanda em Análise e Desenvolvimento de Sistemas (ADS) com sólida bagagem em ambiente corporativo e otimização de processos. Alinho vivência prática em rotinas operacionais e analíticas à capacidade de desenvolver soluções baseadas em dados para resolução de problemas de negócio.
 
-Minha trajetória inclui passagem pela multinacional Sanofi (setor LCM, atuando com análises de cromatografia), além de experiências em grandes instituições (SPDM e Hospital Japonês Santa Cruz). 
+Minha trajetória profissional reúne experiência em multinacional (Sanofi - LCM) e grandes instituições (SPDM e Hospital Santa Cruz), atuando com rigor metodológico, compliance e implementação de melhorias operacionais.
 
-Atualmente, estou direcionando meus conhecimentos para a área de Análise e Ciência de Dados (Health Analytics).
+Atualmente, direciono minha formação técnica para Ciência de Dados, Machine Learning e Inteligência de Negócios.
 
-- Foco: Oportunidades de Estágio ou Atuação Júnior em Ciência de Dados, Análise de Dados / BI e Gerenciamento de Dados Clínicos no setor de Saúde e Indústria Farmacêutica.
+🎯 Principais Competências:
+
+▪ Tecnologia & Dados: Python, SQL, Power BI, Excel Avançado, Machine Learning e Automação de Processos.
+
+▪ Gestão & Processos: Otimização de Processos (Green Belt - Six Sigma), Gestão de Estoque/Insumos e Metodologia Científica.
+
+▪ Foco: Oportunidades de Estágio ou Atuação Júnior em Ciência de Dados, Análise de Dados / BI e Engenharia de Dados.
 
 ## **🤖 Linguages e Tecnologias:**
 
